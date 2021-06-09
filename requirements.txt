@@ -18,7 +18,7 @@ colorama==0.4.1
 cssselect2==0.2.2
 decorator==4.4.1
 
-Django==2.2.6
+Django==2.2.22
 django-appconf==1.0.3
 django-bootstrap3==11.1.0
 django-braces==1.13.0
